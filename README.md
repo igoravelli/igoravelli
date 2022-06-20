@@ -50,7 +50,7 @@ Today, I'm a **Data Analyst** with a focus on Business Intelligence. I'm respons
 
 <div id="git-stats">
   <h2><strong>GitHub Stats</strong></h2>
-  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoravelli&theme=vision-friendly-dark"/>
-  <img height="250" align="top" src="https://github-readme-stats.vercel.app/api?username=igoravelli&show_icons=true&theme=vision-friendly-dark"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoravelli&theme=vision-friendly-dark"/>
+  <img height="200" align="top" src="https://github-readme-stats.vercel.app/api?username=igoravelli&show_icons=true&theme=vision-friendly-dark"/>
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=igoravelli&repo=estudos&theme=vision-friendly-dark"/>
 </div>
